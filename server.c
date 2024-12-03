@@ -6,10 +6,9 @@
 /*   By: igilbert <igilbert@student.42perpignan.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/03 19:18:10 by igilbert          #+#    #+#             */
-/*   Updated: 2024/12/03 19:32:07 by igilbert         ###   ########.fr       */
+/*   Updated: 2024/12/03 19:38:04 by igilbert         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
 
 #include "mini_talk.h"
 
