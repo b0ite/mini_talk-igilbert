@@ -6,7 +6,7 @@
 /*   By: igilbert <igilbert@student.42perpignan.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/03 19:18:24 by igilbert          #+#    #+#             */
-/*   Updated: 2024/12/03 19:38:08 by igilbert         ###   ########.fr       */
+/*   Updated: 2025/01/15 23:40:14 by igilbert         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,5 +15,6 @@
 
 # include <signal.h>
 # include <unistd.h>
+# include <stdlib.h>
 
 #endif
